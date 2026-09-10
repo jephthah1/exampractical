@@ -1,0 +1,126 @@
+body {
+    margin: 0;
+    background: aliceblue;
+}
+
+header {
+    background: blueviolet;
+    border: 1 fixed solid;
+    font-size: fixed solid;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    background: violet;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.h1 {
+    font-size: 70px;
+}
+
+p {
+    font-size: 20px;
+}
+
+main {
+    padding-left: 20px;
+    border: 5px black solid;
+    border-radius: 5px;
+    border: fit fixed;
+}
+
+img {
+    border: 2px black;
+    border-radius: 10px;
+    width: 100px;
+}
+
+.pinterest {
+    margin: 1 blueviolet;
+    background: blueviolet;
+    border-radius: 5px;
+}
+
+.skill {
+    justify-items: center;
+}
+
+.Skills {
+    border: 2px rgb(162, 93, 226) solid;
+    border-radius: 5px;
+    text-align: center;
+}
+
+div {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 1fr 1fr;
+}
+
+.html {
+    background: rgb(162, 93, 226);
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+    margin: 0 50px 0 50px;
+}
+
+.Football {
+    background: rgb(162, 93, 226);
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+}
+
+.Baking {
+    background: rgb(162, 93, 226);
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+}
+
+.Tailoring {
+    background: rgb(162, 93, 226);
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+}
+
+.Driving {
+    background: rgb(162, 93, 226);
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+}
+
+.form {
+    background: rgb(180, 139, 219);
+    justify-content: center;
+    margin: 0 400px 10px 400px;
+    border-radius: 5px;
+}
+
+.fc {
+    text-align: center;
+}
+
+form {
+    margin-left: 10px;
+    margin: 0 20px;
+}
+
+footer {
+    background: blueviolet;
+    text-align: center;
+}
